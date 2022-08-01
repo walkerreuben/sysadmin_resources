@@ -14,6 +14,7 @@ I expect the format of this page to change as it grows, but for now:
 [Discussions](#Discussions)  
 [Websites](#Websites)  
 [Certificates](#Certificates)  
+[Sources](#Sources)  
 
 # Books
 |Title|Author|Publisher|ISBN|
@@ -73,3 +74,6 @@ The 3CX Certification Program is free and open to all. Aimed at VoIP engineers, 
 ## Veeam
 * Veeam Certified Engineer (VMCE)
 * Veeam Certified Architect (VMCA)
+
+# Sources
+https://www.reddit.com/r/sysadmin/comments/2gn8pd/15_essential_books_for_it_technicians_and/
