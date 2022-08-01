@@ -56,11 +56,11 @@ I expect the format of this page to change as it grows, but for now:
 This section is broken down by vendor, in no particular order (for now).
 ## Microsoft
 
-## Comptia
-
 ## Cisco
 
 ## RedHat
+* Red Hat Certified System Administrator (RHCSA)
+* Red Hat Certified Engineer (RHCE)
 
 ## Linux Foundation
 
@@ -75,5 +75,23 @@ The 3CX Certification Program is free and open to all. Aimed at VoIP engineers, 
 * Veeam Certified Engineer (VMCE)
 * Veeam Certified Architect (VMCA)
 
+## COMPtia
+* ITF+
+* A+
+* Network+
+* Security+
+* Linux+
+* Cloud+
+* Server+
+* CySA+
+* CASP+
+* PenTest+
+* Data+
+* Project+
+* CTT+
+* Cloud Essentials+
+
 # Sources
 https://www.reddit.com/r/sysadmin/comments/2gn8pd/15_essential_books_for_it_technicians_and/
+https://www.reddit.com/r/linux/comments/34q9rx/what_certification_would_you_guys_recommend_me/
+https://www.comptia.org/certifications
