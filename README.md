@@ -14,7 +14,6 @@ I expect the format of this page to change as it grows, but for now:
 [Discussions](#Discussions)  
 [Websites](#Websites)  
 [Certificates](#Certificates)  
-## Headers
 
 # Books
 |Title|Author|Publisher|ISBN|
